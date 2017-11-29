@@ -3,7 +3,7 @@
 //  ZKDJ
 //
 //  Created by flyrees on 2017/11/14.
-//
+//哈哈哈
 
 #define kDefaultColor [UIColor colorWithWhite:0 alpha:.1]
 #define kWhiteColor [UIColor whiteColor]
@@ -29,6 +29,7 @@
     [self setDefaultValue];//设置默认值
     self.view.backgroundColor = _backGroundColor;
     _isDefaultInfo = YES;
+    
     
     [self.view addSubview:self.inputInfoTab];
     [self.view addSubview:self.finishBut];
